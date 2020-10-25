@@ -11,14 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="911ad2e8-b309-425d-84d3-3332ad038483" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/links-generator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/hooks/http.hook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/hooks/message.hook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/context/AuthContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/hooks/auth.hook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/auth.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/link.routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/hooks/http.hook.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/hooks/http.hook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/hooks/message.hook.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/hooks/message.hook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +70,8 @@
       <updated>1603277908919</updated>
       <workItem from="1603277913132" duration="10699000" />
       <workItem from="1603388061116" duration="11844000" />
-      <workItem from="1603479781332" duration="9567000" />
+      <workItem from="1603479781332" duration="9645000" />
+      <workItem from="1603529093805" duration="13388000" />
     </task>
     <servers />
   </component>
